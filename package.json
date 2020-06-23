@@ -1,0 +1,25 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trap-God/tictactoe.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Trap-God",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trap-God/tictactoe/issues"
+  },
+  "homepage": "https://github.com/Trap-God/tictactoe#readme",
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  }
+}
